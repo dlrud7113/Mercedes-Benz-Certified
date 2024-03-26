@@ -45,20 +45,18 @@
 
 | 섹션1 : 메인비주얼                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153439-cb1d5c58-56ef-49ce-889c-4938b8cf4824.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTEsIm5iZiI6MTcwNjA2MTU5MSwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNDM5LWNiMWQ1YzU4LTU2ZWYtNDljZS04ODljLTQ5MzhiOGNmNDgyNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjRhMzg1YzA1ZmI0MTYwNTIxNzg0MzE5MTdmZDdhNWVlODU3ZWZlZTFmMjA4ZmZkMWY0YWVmYTBkMzE3M2Y3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I91xcvUdE9_NkYbm3uu9x_a6MbwqnX7bO1Md24Pa0sU">|
+| <img src="">|
 
-| swiper 슬라이드를 활용하여 마사회의 경마경기에서 우승한 말의 이미지를 자동 슬라이드로 배치.
-| swiper 슬라이드를 활용 웹 사이트 사용자가 자주 찾는 메뉴를 아이콘으로 구성하고, hover시 배경색변경. 
-바닐라 슬라이드로 제작되었으며 이미지 슬라이드, 텍스트 슬라이드 총 두 가지의 슬라이드가 각각 정확한 타이밍에 작동되고 있습니다.
+| 메인에 베스트 차량들을 슬라이드 형식으로 보여줌
+| swiper 슬라이드를 커스텀하여 중앙에 오는 이미지는 크게 보이게 함.
 
 <br>
 
-| 섹션2 : / 알림마당                                                                                              |
+| 섹션2 : / 키워드                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153466-4c5cb52a-be14-4c11-a036-dfde63438fd8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTEsIm5iZiI6MTcwNjA2MTU5MSwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNDY2LTRjNWNiNTJhLWJlMTQtNGMxMS1hMDM2LWRmZGU2MzQzOGZkOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDhlM2VhYWU2YjI5YzhmNGM5Yzc4MDU4MWEwYmU5NWQ3MGIzMTUyZTk2NzI0YzM0MDExYzA4ZTZlNjgwZGQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-MD38y6gLbTNz-cn_cWNHsGkhGI4seE_F_sQwyREkfI">|
+| <img src="">|
 
-| 3개의 박스는 <공지사항>, 1개의 박스는 <ceo소식>으로 구성하여 autplay, loop 자동 반복 슬라이드 형식으로 구성했습니다.
-
+| 페이지에서 자주
 | 기존페이지의 공지사항은 눈에 띄지 않아 리뉴얼은 큰 공지사항 박스를 구성하여 큰 사이즈로 눈에 띄게 구성하였습니다.
 
 <br>

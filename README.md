@@ -47,8 +47,8 @@
 | :---------------------------------------------------------------------------------------------------------------------- |
 | <img src="">|
 
-| 메인에 베스트 차량들을 슬라이드 형식으로 보여줌
-| swiper 슬라이드를 커스텀하여 중앙에 오는 이미지는 크게 보이게 함.
+| 메인에 베스트 차량들을 슬라이드 형식으로 제작했습니다.
+| swiper 슬라이드를 커스텀하여 중앙에 오는 이미지는 크게 보여지게 하였습니다.
 
 <br>
 
@@ -56,45 +56,82 @@
 | :------------------------------------------------------------------------------------------------------------------------ |
 | <img src="">|
 
-| 페이지에서 자주
-| 기존페이지의 공지사항은 눈에 띄지 않아 리뉴얼은 큰 공지사항 박스를 구성하여 큰 사이즈로 눈에 띄게 구성하였습니다.
+| 페이지에서 자주 찾는 키워드를 한눈에 찾을 수 있게 버튼으로 제작했습니다.
+| #Maybach-GLS 버튼 클릭시 자동차 전체보기 페이지로 이동합니다. 
 
 <br>
 
-| 섹션3 : SNS                                                                                                           |
+| 섹션3 : Best Model                                                                                                           |
 | :----------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153505-a84c8c10-7866-4285-ba07-d1b832d21e82.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTQsIm5iZiI6MTcwNjA2MTU5NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNTA1LWE4NGM4YzEwLTc4NjYtNDI4NS1iYTA3LWQxYjgzMmQyMWU4Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDU5YzdjYzMzMzkyMWZjMzY2M2ViYTZkYWM2NDY2ZTZmNDc1NDIyZjAwMjFlZGY3NjlkZGIyNWZkMDM3OGM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iQxq7TQcsIdFz74iMwEOdbY2PozmKpZ4RMk9tWg5ZzY"> |
+| <img src=""> |
 
-| 3개의 박스로 구성하고, hover시 박스마다 animation기능을 추가하여 구름처럼 둥둥 떠 보이는 효과를 넣었습니다.
+| swiper 슬라이드를 활용하여 베스트 모델 차량을 순위별로 보여줍니다. 
+| 차량이미지, 해당차량 정보를 보여줍니다.
+
 
 <br>
 
-| 섹션4 : 레츠런파크                                                                                                         |
+| 섹션4 : 트렌드                                                                                                        |
 | :--------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153540-72f1140f-2013-4ae1-b0ee-38889466d54a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTQsIm5iZiI6MTcwNjA2MTU5NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNTQwLTcyZjExNDBmLTIwMTMtNGFlMS1iMGVlLTM4ODg5NDY2ZDU0YS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZDE4ZTg3MTQwMzg5MWRhMmQxNDI2OGY1ZmQxNzFiM2VkM2Q5MGQ0M2YxMDE4OTg2NmRlNDlmOWJlMWRhNzUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YED14ZUlLqXEO71Q4nc8YhWplijg1-m9c7PtQ6LJnNc"> |
+| <img src=""> |
 
-| 레츠런파크의 3개의 지역을 한눈에 보여줄 수 있는 큰 아코디언박스로 구성했습니다
-| 해당 지역 박스를 클릭시 width값이 늘어나고, 선택되지 않은 두개의 박스는 width이 줄어드는 형식으로 구성했습니다.
+| trend01 ~ trend03 2024년 벤츠 중고차 트렌드를 3개의 섹션을 하나의 슬라이드로 보여줍니다.
+| trend02 ~ trend03 해당 위치에 도달하면 에니메이션이 작동합니다.
+| trend02 월별 그래프에 마우스 오버시 해당 월의 거래량이 표시됩니다.
 <br>
 
-| 섹션5 : 경마가이드                                                                                                        |
+| 섹션5 : 중고차 인증                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153515-fbab48a4-3c96-4de9-9fe1-fe319b6e0a0a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTQsIm5iZiI6MTcwNjA2MTU5NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNTE1LWZiYWI0OGE0LTNjOTYtNGRlOS05ZmUxLWZlMzE5YjZlMGEwYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YWI2YjUwMDU5NDc5ODg3NDYyZTAyM2ZhN2RjMzEwYzkzZTc3YWViMWMxNmNjYjFmZWJhMGQyYjJjMjZmMzk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iSsim6TGO2IB0hY3r0FwopRS3We2jx2zdlcNXLTB17c">|
+| <img src="">|
 
-| 탭메뉴 기능을 넣어 많은 정보를 깔끔하게 보여줄 수 있는 형식으로 구성했습니다.
-| 4개의 아이콘 박스로 구성하고, 호버 시 background-color, font-color 반전(Reverse) 기능을 추가했습니다.
+| svg의 여러선들이 자동차가 그려지는 듯한  애니메이션 효과를 보여줍니다.
+| 자동차 바퀴가 transform:rotate 시켜 바퀴가 굴러가는 효과를 보여줍니다.
 
 <br>
 
-| 섹션6 : 푸터                                                                                                     |
+| 섹션6 : 품질과 서비스                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299153626-78e6e000-6236-4720-b5e0-9f54710e732e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE4OTQsIm5iZiI6MTcwNjA2MTU5NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTUzNjI2LTc4ZTZlMDAwLTYyMzYtNDcyMC1iNWUwLTlmNTQ3MTBlNzMyZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU5NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wODdkZTFjYmY3ZTk2MDg2YWVkYTQxNWJkMzU2MmIzZDhkMzA1NjZiMWMxZWI2MjgyNTk0YWJjMzgwZDVjYjQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eX6CjkonkLeUvw1jL4YSnoOeCgWW7QGa7n82smsnykU">|
+| <img src="">|
 
-| 왼쪽 하단에 SNS 아이콘이 있고
-| Select에 option 추가하여 다운 슬라이드형식으로 클릭 시 해당 사이트로 이동하는 형식으로 구성했습니다.
-
+| 이용자에게 벤츠 인증 중고차의 차별화된 서비스를 3개의 섹션으로 보여줍니다.
 
 <br>
+
+| 섹션6 : 이벤트/ 기획전                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="">|
+
+| 베너 형식으로 이벤트/기획전을 확인할 수 있습니다.
+
+<br>
+
+| 섹션6 : 이벤트/ 기획전                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="">|
+
+| 베너 형식으로 이벤트/기획전을 확인할 수 있습니다.
+
+<br>
+
+| 섹션6 : 이벤트/ 기획전                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="">|
+
+| 베너 형식으로 이벤트/기획전을 확인할 수 있습니다.
+
+<br>
+
+| 섹션6 : 자주묻는 질문                                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="">|
+
+| 질문박스 swiperslide를 사용했고, autoplay 속성을 넣어 자동 슬라이드 형식으로 제작했습니다.
+| 질문박스 마우스 오버시 질문박스의 autoplay가 멈추는 자바스크립트기능을 넣었습니다.
+
+----------작성중----------------------
+<br>
+### 인트로페이지
+
 
 ### 서브페이지
 

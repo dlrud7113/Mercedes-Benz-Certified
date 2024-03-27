@@ -98,7 +98,7 @@
 
 | 섹션6 : 이벤트/ 기획전                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="">|
+| <img src="https://github.com/dlrud7113/Mercedes-Benz-Certified/assets/153471342/be614c3e-7df7-4e43-8a4b-29148449f771">|
 
 | 베너 형식으로 이벤트/기획전을 확인할 수 있습니다.
 
@@ -132,23 +132,50 @@
 | <img src="https://github.com/dlrud7113/Mercedes-Benz-Certified/assets/153471342/5e33e5ca-4405-4576-aee0-1f2c8a803463">|
 
 | 벤츠 인증 중고차라는 걸 이미지로 각인시키고 싶었기에 인트로에 애니메이션을 활용했습니다.
-| 벤츠 인증차 로고가 첫 화면에 등장하며 certified ‘i’ 윗부분 체크(svg) 아이콘이 체킹 애니메이션 <br>
-| 
+| intro 1 벤츠 인증차 로고가 첫 화면에 등장하며 certified ‘i’ 윗부분 체크(svg) 아이콘이 체킹 애니메이션을 넣었습니다. <br>
+| intro 2 직선이 우측에서 좌측으로 이동, 타이어 자국 연출을 했습니다.
+| intro 3 벤츠 로고가 제자리에서 회전하다가 사라집니다.
 
 ----------작성중----------------------
+
 ### 서브페이지
 
-| 서브01 : 로그인 모달창                                                                                                      |
+| 서브01 : 내차 팔기                                                                                                   |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299154318-a39a0e62-e40e-4dc3-b2ed-dd673d5c6218.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjIxNDQsIm5iZiI6MTcwNjA2MTg0NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTU0MzE4LWEzOWEwZTYyLWU0MGUtNGRjMy1iMmVkLWRkNjczZDVjNjIxOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMjA0MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZWM0ZjZhYzA2ZmFkZTY5ZmRlNDE0NjY1NTg3OTkyZmRhNmM5NDMxZGU0ZDJjMWZhZTVjNmY2NGVhYWFkZGJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sgWtif0YuLMoVL_9f2FReY3N2-rh6rEQWbukiajWd78"> |
+| <img src="https://github.com/dlrud7113/Mercedes-Benz-Certified/assets/153471342/3b44f6d2-d626-4249-a9f0-ec3977e80bcb"> |
 
-| 해당 로그인 버튼을 클릭하면 로그인 모달창이 뜨는 형식입니다.
+| 인트로가 끝나고 나오는 페이지로 마우스 오버시 해당 화면이 보입니다.
+| 오른쪽은 메인페이지로 이동하고, 자동차에 마우스 오버시 불빛이 들어오는 효과를 넣었습니다. (클릭요소 넣어서 메인페이지 이동 유도)
+| 왼쪽은 내차 팔기 버튼 클릭시 페이지로 이동됩니다.
+
 
 
 <br>
 
-| 서브02 : 공지사항                                                                                                      |
+| 서브02 : 전시장 찾기                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/153471342/299154331-935ea56c-5c81-42b1-b030-f912d631cd09.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjIxNDQsIm5iZiI6MTcwNjA2MTg0NCwicGF0aCI6Ii8xNTM0NzEzNDIvMjk5MTU0MzMxLTkzNWVhNTZjLTVjODEtNDJiMS1iMDMwLWY5MTJkNjMxY2QwOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMjA0MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMWM3MjNjODViYWNjMTI4YzQ1MDVkNjczZmViODE4NzVmYzhhOThlNWE5YWFjMTRmOTkxYTg2YjUwNTNmMWE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9-ZW37siSw-IJ0snwETmtE-lvs1LR9kER5NpFSgpwzk">  |
+| <img src="">  |
 
 | 공공기관 이미지에 맞는 반듯하고 정돈된 분위기로 구성했습니다.
+
+
+<br>
+
+| 서브02 : 자동차 정보                                                                                                       |
+| :---------------------------------------------------------------------------------------------------------------------- |
+| <img src="">  |
+
+| 차량 정보를 확인할 수 있는 페이지 입니다.
+| 
+
+
+<br>
+
+| 서브02 : 기획전                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------- |
+| <img src="">  |
+
+| 현재 진행중인 기획전을 보여주는 페이지 입니다.
+| 카드에 들어가느 기획전은 모두 피그마로 제작해서 가져온 이미지입니다.
+
+<br>
